@@ -1,4 +1,5 @@
-# Assignment Guide: Breast Cancer Data Analysis and Streamlit App## Step 1: Project Setup1.**Create a Project Directory:**   - Create a new directory for your project in VS Code.
+**Guide: Breast Cancer Data Analysis and Streamlit App## Step 1: Project Setup
+1.**Create a Project Directory:**   - Create a new directory for your project in VS Code.
    - Initialize a Git repository.
 
 2.**Set Up a Virtual Environment:**   - Create and activate a virtual environment for the project.
